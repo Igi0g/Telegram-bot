@@ -1,0 +1,2 @@
+BOT_TOKEN = "5148779324:AAEW3YAkRBPWrQFuJwm6RB3GJF0J4GMSe88""
+APP_URL ="https://secure-plateau-60675.herokuapp.com/" + BOT_TOKEN
